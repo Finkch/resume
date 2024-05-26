@@ -1,30 +1,44 @@
-# This workflow converts `resume.md` to a PDF
-
+# Converts `resume.md` to a PDF
 name: Markdown to PDF
 
-# Controls when the workflow will run
+# Runs the job whenever there is a push to `main`
+# Since this repo is so small, there is no need for branches thus `on pull`
 on:
-  # Triggers the workflow on push or pull request events but only for the "main" branch
   push:
-    branches: [ "main" ]
-  pull_request:
-    branches: [ "main" ]
+    branches:
+      - main
 
-# Prepares the job
+# Dispatches a job
 jobs:
   build:
     runs-on: ubuntu-latest
+
+    # Moves repo to the runner
     steps:
-    - uses: actions/checkout@v2
+    - name: Checkout repository content
+      uses: actions/checkout@v2
 
-    # Installs `pandoc` to convert the pdf
-    - name: Markdown to PDF
+    # Installs tools the runner to stitch the document
+    - name: Install Pandoc and LaTeX
+      run: sudo apt-get update && sudo apt-get install -y pandoc texlive-xetex
+
+    # Runs `pandoc` to perform the conversion
+    - name: Convert Markdown to PDF
+      run: pandoc resume.md -o resume.pdf
+
+    # Pushes the PDF back to main
+    # We have to do a little dance to prevent recursive Actions from pushing onto main
+    - name: Commit Dance PDF
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
-        sudo apt-get install pandoc texlive-xetex
-        pandoc resume.md -o resume.pdf
-
-    - name: Upload PDF
-      uses: actions/upload-artifact@v2
-      with:
-        name: resume
-        path: resume.pdf
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
+        git checkout pdf-merge
+        git pull origin pdf-merge
+        git add resume.pdf
+        git commit -m "Auto-generate PDF from resume.md"
+        git push origin pdf-merge
+        git checkout main
+        git pull origin main
+        git merge pdf-merge
