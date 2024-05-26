@@ -1,0 +1,30 @@
+# This workflow converts `resume.md` to a PDF
+
+name: Markdown to PDF
+
+# Controls when the workflow will run
+on:
+  # Triggers the workflow on push or pull request events but only for the "main" branch
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+
+# Prepares the job
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+
+    # Installs `pandoc` to convert the pdf
+    - name: Markdown to PDF
+      run: |
+        sudo apt-get install pandoc texlive-xetex
+        pandoc resume.md -o resume.pdf
+
+    - name: Upload PDF
+      uses: actions/upload-artifact@v2
+      with:
+        name: resume
+        path: resume.pdf
