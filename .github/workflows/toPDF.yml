@@ -27,8 +27,7 @@ jobs:
       run: pandoc resume.md -o resume.pdf
 
     # Pushes the PDF back to main
-    # We have to do a little dance to prevent recursive Actions from pushing onto main
-    - name: Commit Dance PDF
+    - name: Push PDF
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
