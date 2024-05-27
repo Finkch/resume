@@ -24,7 +24,7 @@ jobs:
 
     # Runs `pandoc` to perform the conversion
     - name: Convert Markdown to PDF
-      run: pandoc resume.md -o resume.pdf
+      run: pandoc resume.md -o resume.pdf --pdf-engine=/Library/TeX/texbin/pdflatex
 
     # Pushes the PDF back to main
     - name: Push PDF

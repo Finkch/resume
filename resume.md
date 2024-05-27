@@ -44,7 +44,7 @@
     - Graded homework
 - Volunteer work for iGEM, a UBC club competing in an international competition in 2022
     - Frontend CSS and HTML work to design their [website/wiki](https://2022.igem.wiki/ubc-okanagan/)
-    - The wiki won the [gold medal](https://2022.igem.wiki/ubc-okanagan/medals) for its category
+    - The wiki won the [[gold medal]](https://2022.igem.wiki/ubc-okanagan/medals) for its category
 
 
 ## Skills
