@@ -8,6 +8,9 @@
 * \href{https://github.com/Finkch}{GitHub} 
 * \href{https://www.linkedin.com/in/skyler-alderson-b91a2a30b/}{LinkedIn} 
 
+[github](https://github.com/Finkch)
+[email](mailto:skyler@thealdersons.org)
+
 
 ## Professional Summary
 
