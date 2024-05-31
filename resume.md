@@ -5,6 +5,8 @@
 * White Rock, BC
 * [GitHub](https://github.com/Finkch)
 * [LinkedIn](https://www.linkedin.com/in/skyler-alderson-b91a2a30b/)
+* \href{https://github.com/Finkch}{GitHub} 
+* \href{https://www.linkedin.com/in/skyler-alderson-b91a2a30b/}{LinkedIn} 
 
 
 ## Professional Summary
@@ -21,7 +23,7 @@
 - Two degrees from the University of British Columbia
     - Bachelor of Science in Physics and in Computer Science
 - Have been on the Dean's List several times
-- An executive on of the Astronomy Club
+- A previous executive of UBCO's Astronomy Club
 
 
 ## Experience
