@@ -1,8 +1,8 @@
 # Skyler Alderson
 
-* \underline{[skyler@thealdersons.org](mailto:skyler@thealdersons.org)}
-* <u><span style="color: #0000EE;">[GitHub](https://github.com/Finkch)</span></u>
-* <u>[LinkedIn](https://www.linkedin.com/in/skyler-alderson-b91a2a30b/)</u>
+* [\underline{skyler@thealdersons.org}](mailto:skyler@thealdersons.org)
+* \underline{[GitHub](https://github.com/Finkch)}
+* [\underline{LinkedIn}](https://www.linkedin.com/in/skyler-alderson-b91a2a30b/)
 * 604-807-1061
 * White Rock, BC
 
