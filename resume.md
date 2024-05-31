@@ -1,8 +1,12 @@
 # Skyler Alderson
 
-* [<u style="color: #0000EE;">skyler@thealdersons.org</u>](mailto:skyler@thealdersons.org)
-* [<u style="color: #0000EE;">GitHub</u>](https://github.com/Finkch)
-* [<u style="color: #0000EE;">LinkedIn</u>](https://www.linkedin.com/in/skyler-alderson-b91a2a30b/)
+\usepackage{xcolor}
+
+\definecolor{linkblue}{RGB}{0, 0, 238}
+
+* \textcolor{linkblue}{\underline{[skyler@thealdersons.org](mailto:skyler@thealdersons.org)}}
+* <u><span style="color: #0000EE;">[GitHub](https://github.com/Finkch)</span></u>
+* <u>[LinkedIn](https://www.linkedin.com/in/skyler-alderson-b91a2a30b/)</u>
 * 604-807-1061
 * White Rock, BC
 
