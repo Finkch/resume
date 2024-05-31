@@ -1,10 +1,6 @@
 # Skyler Alderson
 
-\usepackage{xcolor}
-
-\definecolor{linkblue}{RGB}{0, 0, 238}
-
-* \textcolor{linkblue}{\underline{[skyler@thealdersons.org](mailto:skyler@thealdersons.org)}}
+* \underline{[skyler@thealdersons.org](mailto:skyler@thealdersons.org)}
 * <u><span style="color: #0000EE;">[GitHub](https://github.com/Finkch)</span></u>
 * <u>[LinkedIn](https://www.linkedin.com/in/skyler-alderson-b91a2a30b/)</u>
 * 604-807-1061
