@@ -1,11 +1,3 @@
----
-fontsize: 10pt
-geometry: margin=1in
-colorlinks: true
-pagestyle: empty
----
-
-
 # Skyler Alderson
 
 | Email                                                     | GitHub                              | LinkedIn                                                         | Phone Number       | Location
