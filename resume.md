@@ -1,6 +1,6 @@
 ---
 fontsize: 10pt
-geometry: margin=2cm
+geometry: margin=1in
 ---
 
 
@@ -12,13 +12,13 @@ geometry: margin=2cm
 * 604-807-1061
 * White Rock, BC
 
-******************
+***
 
 ## Professional Summary
 
 Enthusiastic and detail-oriented recent graduate with a strong foundation in computer science and physics. Finds the best path to tackle a problem before starting. Adept at developing small-scale physics simulations, data analytics tools, and tools to solve math problems. Proven ability to solve complex problems, lead academic labs, and conduct research-based data analysis.
 
-***************
+***
 
 ## Education
 
@@ -28,7 +28,7 @@ Enthusiastic and detail-oriented recent graduate with a strong foundation in com
 * Dean's List honoree on multiple occasions
 * Former Executive of UBCO's Astronomy Club
 
-************
+***
 
 ## Experience
 
