@@ -1,6 +1,7 @@
 ---
-fontsize: 8pt
+fontsize: 10pt
 geometry: margin=1in
+colorlinks: true
 ---
 
 
@@ -30,7 +31,7 @@ Enthusiastic and detail-oriented recent graduate with a strong foundation in com
 
 * Bachelor of Science in Physics and Computer Science
 * Dean's List honoree on multiple occasions
-* Former Executive of UBCO's Astronomy Club
+* Former executive of UBC-O's Astronomy Club
 
 
 ***
@@ -43,8 +44,7 @@ Enthusiastic and detail-oriented recent graduate with a strong foundation in com
 
 * Investigated replacing paper lab manuals with Python Notebooks for early physics laboratories.
 * Developed Python scripts for data analytics on student submissions.
-* Conducted thematic analysis of interview and survey data.
-* Led semi-structured interviews with students.
+* Conducted thematic analysis of interview and survey data and led semi-structured interviews.
 
 
 ### Computer Science Capstone Project
@@ -77,6 +77,7 @@ Enthusiastic and detail-oriented recent graduate with a strong foundation in com
 
 ## Skills
 
-**Programming Languages:** Python, Java, JavaScript, C, Lua, zsh and bash script, minor familiarity with Rust and R
-**Physics:** Experimental design and execution, handling lab data, problem-solving, simulation, and modeling
-**Other:** Git and GitHub, Docker, CI/CD, presentation skills, report writing, strong communication
+**Programming Languages:** Python, Java, JavaScript, C, Lua, minor familiarity with Rust and R
+**Tools:** Git and GitHub, Docker, MacOS, generative AI, bash and zsh
+**Physics:** Experimental design and execution, handling lab data, problem-solving, and modeling
+**Other:** Presentation skills, report writing, strong communication, focus, probability
