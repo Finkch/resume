@@ -1,5 +1,6 @@
 ---
 fontsize: 10pt
+geometry: margin=2cm
 ---
 
 
@@ -63,7 +64,7 @@ Enthusiastic and detail-oriented recent graduate with a strong foundation in com
 ### Volunteer, iGEM
 **University of British Columbia** | 2022
 
-* Designed frontend using CSS and HTML for the [iGEM website/wiki](https://2022.igem.wiki/ubc-okanagan/).
+* Designed frontend using CSS and HTML for the [iGEM wiki](https://2022.igem.wiki/ubc-okanagan/).
 * Contributed to the wiki's gold medal win in its category.
 
 ***
