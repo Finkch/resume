@@ -12,13 +12,17 @@ geometry: margin=1in
 * 604-807-1061
 * White Rock, BC
 
+
 ***
+
 
 ## Professional Summary
 
 Enthusiastic and detail-oriented recent graduate with a strong foundation in computer science and physics. Finds the best path to tackle a problem before starting. Adept at developing small-scale physics simulations, data analytics tools, and tools to solve math problems. Proven ability to solve complex problems, lead academic labs, and conduct research-based data analysis.
 
+
 ***
+
 
 ## Education
 
@@ -28,14 +32,16 @@ Enthusiastic and detail-oriented recent graduate with a strong foundation in com
 * Dean's List honoree on multiple occasions
 * Former Executive of UBCO's Astronomy Club
 
+
 ***
+
 
 ## Experience
 
 ### Undergraduate Academic Assistant (Research Position)
 **University of British Columbia** | 4 months
 
-* Investigated the effectiveness of replacing paper lab manuals with Python Notebooks for early experimental physics laboratories.
+* Investigated replacing paper lab manuals with Python Notebooks for early experimental physics laboratories.
 * Developed Python scripts for data analytics on student submissions.
 * Conducted thematic analysis of interview and survey data.
 * Led semi-structured interviews with students.
@@ -45,9 +51,8 @@ Enthusiastic and detail-oriented recent graduate with a strong foundation in com
 **University of British Columbia** | 4 months
 
 * Developed an automated system for creating and grading SQL/RelAlg questions for a third-year course.
-* Wrote JavaScript for functional SQL and relational algebra editors.
+* Wrote JavaScript for functional SQL and relational algebra editors, used Python for the backend.
 * Utilized SQL and the RelaX tool for relational algebra.
-* Developed the backend using Python.
 * CI/CD and full regression testing through DroneCI.
 * Focused on full-stack development, achieving the highest grade in the class.
 
@@ -55,8 +60,7 @@ Enthusiastic and detail-oriented recent graduate with a strong foundation in com
 ### Teacher's Assistant
 **University of British Columbia** | 18 months
 
-
-* Led two undergraduate experimental physics labs.
+* Led two undergraduate experimental physics labratories.
 * Assisted in creating class slides.
 * Graded homework assignments.
 
@@ -67,10 +71,12 @@ Enthusiastic and detail-oriented recent graduate with a strong foundation in com
 * Designed frontend using CSS and HTML for the [iGEM wiki](https://2022.igem.wiki/ubc-okanagan/).
 * Contributed to the wiki's gold medal win in its category.
 
+
 ***
+
 
 ## Skills
 
-* **Programming Languages:** Python, Java, JavaScript, C, Lua, zsh and bash script, minor familiarity with Rust and R
-* **Physics:** Experimental design and execution, handling lab data, problem-solving, simulation, and modeling
-* **Other:** Git and GitHub, Docker, CI/CD, presentation skills, report writing, strong communication, focus
+**Programming Languages:** Python, Java, JavaScript, C, Lua, zsh and bash script, minor familiarity with Rust and R
+**Physics:** Experimental design and execution, handling lab data, problem-solving, simulation, and modeling
+**Other:** Git and GitHub, Docker, CI/CD, presentation skills, report writing, strong communication
