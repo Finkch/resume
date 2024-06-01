@@ -9,7 +9,7 @@ colorlinks: true
 
 | Email                                                     | GitHub                              | LinkedIn                                                         | Phone Number       | Location
 |:---------------------------:                              | :----------:                        | :------------:                                                   | :----------------: | :------------------:
-| [skyler@thealdersons.org](mailto:skyler@thealdersons.org) | [Finkch](https://github.com/Finkch) | [Skyler](https://www.linkedin.com/in/skyler-alderson-b91a2a30b/) | 604-807-106  1     | White Rock, BC
+| [skyler@thealdersons.org](mailto:skyler@thealdersons.org) | [Finkch](https://github.com/Finkch) | [Skyler](https://www.linkedin.com/in/skyler-alderson-b91a2a30b/) | 604-807-1061       | White Rock, BC
 
 
 
@@ -26,8 +26,7 @@ Enthusiastic and detail-oriented recent graduate with a strong foundation in com
 **University of British Columbia** | GPA 3.90
 
 * Bachelor of Science in Physics and Computer Science
-* Dean's List honoree on multiple occasions
-* Former executive of UBC-O's Astronomy Club
+* Dean's List honoree on multiple occasions and former executive of UBC-O's Astronomy Club
 
 
 ***
@@ -36,29 +35,26 @@ Enthusiastic and detail-oriented recent graduate with a strong foundation in com
 ## Experience
 
 ### Undergraduate Academic Assistant (Research Position)
-**University of British Columbia** | 4 months
+**University of British Columbia** | 4 months, 2024
 
-* Investigated replacing paper lab manuals with Python Notebooks for early physics laboratories.
-* Developed Python scripts for data analytics on student submissions.
+* Developed Python scripts for data analytics on student submissions for physics labratory.
 * Conducted thematic analysis of interview and survey data and led semi-structured interviews.
 
 
 ### Computer Science Capstone Project
-**University of British Columbia** | 4 months
+**University of British Columbia** | 4 months, 2023
 
-* Developed an automated system for creating and grading SQL/RelAlg questions for a third-year course.
-* Wrote JavaScript for functional SQL and relational algebra editors, used Python for the backend.
-* Utilized SQL and the RelaX tool for relational algebra.
+* Wrote JavaScript for functional SQL and relational algebra editors.
+* Devloped Python backend to automatically create and grade SQL and RelAlg questions.
 * CI/CD and full regression testing through DroneCI.
 * Focused on full-stack development, achieving the highest grade in the class.
 
 
 ### Teacher's Assistant
-**University of British Columbia** | 18 months
+**University of British Columbia** | 18 months, 2022-2023
 
 * Led two undergraduate experimental physics labratories.
-* Assisted in creating class slides.
-* Graded homework assignments.
+* Assisted in creating class slides andGraded homework assignments.
 
 
 ### Volunteer, iGEM
@@ -75,6 +71,6 @@ Enthusiastic and detail-oriented recent graduate with a strong foundation in com
 
 **Programming Languages:** Python, Java, JavaScript, C, Lua, minor familiarity with Rust and R.  
 **Data Analysis:** Python, numpy, thematic analysis, semi-structure interviews.  
-**Tools:** Git and GitHub, Docker, MacOS, generative AI, bash and zsh.  
+**Tools:** Git and GitHub, Docker, MacOS, generative AI, bash and zsh, Google Sheets and Excel.  
 **Physics:** Experimental design and execution, handling lab data, problem-solving, and modeling.  
 **Other:** Presentation skills, report writing, strong communication.  
