@@ -21,8 +21,8 @@ Enthusiastic and detail-oriented recent graduate with a strong foundation in com
 
 **University of British Columbia** | GPA 3.90  
 
-- B.Sc. in Physics and Computer Science
-- Dean's List honoree, former executive of UBC-O's Astronomy Club
+- B.Sc. in Physics and Computer Science.
+- Dean's List honoree, former executive of UBC-O's Astronomy Club.
 
 
 ## Experience
@@ -58,7 +58,7 @@ Enthusiastic and detail-oriented recent graduate with a strong foundation in com
 
 ## Skills
 
-**Programming:** Python, Java, JavaScript, C, Lua, zsh, bash, minor familiarity with Rust and R  
-**Data Analysis:** Python, numpy, thematic analysis, semi-structured interviews  
-**Tools:** Git, GitHub, Docker, MacOS, generative AI, Jupyter, Google Sheets, Excel  
-**Physics:** Experimental design and execution, handling lab data, problem-solving, modeling
+**Programming:** Python, Java, JavaScript, C, Lua, zsh, bash, minor familiarity with Rust and R.  
+**Data Analysis:** NumPy, SciPy, Matplotlib, thematic analysis, semi-structured interviews.  
+**Tools:** Git, GitHub, Docker, MacOS, generative AI, Jupyter, Google Sheets, Excel.  
+**Physics:** Experimental design and execution, handling lab data, problem-solving, modeling.
