@@ -7,15 +7,9 @@ colorlinks: true
 
 # Skyler Alderson
 
----
-
-[skyler@thealdersons.org](mailto:skyler@thealdersons.org)  
-[GitHub/Finkch](https://github.com/Finkch)  
-[LinkedIn/Skyler Alderson](https://www.linkedin.com/in/skyler-alderson-b91a2a30b/)  
-604-807-1061  
-White Rock, BC  
-
----
++:---------------------------------------------------------:+:------------------------------------------:+:----------------------------------------------------------------------------------:+:----------------------------:+
+| [skyler@thealdersons.org](mailto:skyler@thealdersons.org) | [GitHub/Finkch](https://github.com/Finkch) | [LinkedIn/Skyler Alderson](https://www.linkedin.com/in/skyler-alderson-b91a2a30b/) | 604-807-1061 |White Rock, BC |
++-----------------------------------------------------------+--------------------------------------------+------------------------------------------------------------------------------------+------------------------------+
 
 
 ***
