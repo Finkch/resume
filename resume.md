@@ -1,65 +1,57 @@
 # Skyler Alderson
 
-* [\underline{skyler@thealdersons.org}](mailto:skyler@thealdersons.org)
-* \underline{[GitHub](https://github.com/Finkch)}
-* [\underline{LinkedIn}](https://www.linkedin.com/in/skyler-alderson-b91a2a30b/)
+* [skyler@thealdersons.org](mailto:skyler@thealdersons.org)
+* [GitHub](https://github.com/Finkch)
+* [LinkedIn](https://www.linkedin.com/in/skyler-alderson-b91a2a30b/)
 * 604-807-1061
 * White Rock, BC
 
 
 ## Professional Summary
 
-- Programs small physics simulations, data analytic toys, and video games as a hobby
-- Enjoys solving challenging problems
-- Recent graduate from the University of British Columbia
-- Worked as a Teacher's Assistant to lead physics labs
-- Worked as an Undergraduate Academic Assistant to conduct data analysis in physics labratories
+Enthusiastic and detail-oriented recent graduate with a strong foundation in computer science and physics. Finds the best path to tackle a problem before starting. Adept at developing small-scale physics simulations, data analytics tools, and tools to solve math problems. Proven ability to solve complex problems, lead academic labs, and conduct research-based data analysis.
 
 
 ## Education
 
-- Two degrees from the University of British Columbia
-    - Bachelor of Science in Physics and in Computer Science
-- Have been on the Dean's List several times
-- A previous executive of UBCO's Astronomy Club
+**University of British Columbia**
+- Bachelor of Science in Physics and Computer Science
+- Dean's List honoree on multiple occasions
+- Former Executive of UBCO's Astronomy Club
 
 
 ## Experience
 
-- Undergraduate academic assistant, a research position (4 months)
-    - Project was to investigate the effectiveness of replacing paaper lab manuals with a Python Notebook for early experimental physics labratories
-    - Wrote Python to perform data analytics on student sumbissions
-    - Code and theme based analysis of interview and survey data
-    - Lead semi-structure interviews with students
-- Computer science capstone project: automatically creating and grading SQL/RelAlg questions for a third year course
-    - Writing JavaScript for functional SQL and relational algebra editors
-    - SQL
-    - RelaX tool for relational algebra
-    - Python for backend
-    - Fullstack development, focus on SQL and the backend in Python
-    - Project achieved the highest grade in the class
-- Teacher's Assisatance for three semesters (18 months)
-    - Lead two experimental physics labs
-    - Helped create slides for the class
-    - Graded homework
-- Volunteer work for iGEM, a UBC club competing in an international competition in 2022
-    - Frontend CSS and HTML work to design their [website/wiki](https://2022.igem.wiki/ubc-okanagan/)
-    - The wiki won the [[gold medal]](https://2022.igem.wiki/ubc-okanagan/medals) for its category
+### Undergraduate Academic Assistant (Research Position)
+**University of British Columbia** | 4 months
+- Investigated the effectiveness of replacing paper lab manuals with Python Notebooks for early experimental physics laboratories.
+- Developed Python scripts for data analytics on student submissions.
+- Conducted thematic analysis of interview and survey data.
+- Led semi-structured interviews with students.
+
+### Computer Science Capstone Project
+**University of British Columbia** | 4 months
+- Developed an automated system for creating and grading SQL/RelAlg questions for a third-year course.
+- Wrote JavaScript for functional SQL and relational algebra editors.
+- Utilized SQL and the RelaX tool for relational algebra.
+- Developed the backend using Python.
+- CI/CD and full regression testing through DroneCI.
+- Focused on full-stack development, achieving the highest grade in the class.
+
+### Teacher's Assistant
+**University of British Columbia** | 18 months
+- Led two undergraduate experimental physics labs.
+- Assisted in creating class slides.
+- Graded homework assignments.
+
+### Volunteer, iGEM
+**University of British Columbia** | 2022
+- Designed frontend using CSS and HTML for the [iGEM website/wiki](https://2022.igem.wiki/ubc-okanagan/).
+- Contributed to the wiki's gold medal win in its category.
 
 
 ## Skills
 
-- Coding
-    - Python
-    - Java
-    - JavaScript
-    - C
-    - Lua
-    - Minor familiarity with Rust and R
-- Physics
-    - Experimental design and conduct
-    - Problem solving
-    - Simulation and models
-- Presentations
-- Writing and reports
-- Communication
+- **Programming Languages:** Python, Java, JavaScript, C, Lua, zsh and bash script, minor familiarity with Rust and R
+- **Physics:** Experimental design and execution, handling lab data, problem-solving, simulation, and modeling
+- **Other:** Git and GitHub, presentation skills, report writing, strong communication, focus
