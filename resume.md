@@ -7,9 +7,9 @@ colorlinks: true
 
 # Skyler Alderson
 
- Email                     GitHub   LinkedIn   Phone Number   Location
-------------------------- -------- ---------- -------------- ----------
-[skyler@thealdersons.org](mailto:skyler@thealdersons.org) | [Finkch](https://github.com/Finkch) | [Skyler](https://www.linkedin.com/in/skyler-alderson-b91a2a30b/) | 604-807-1061 | White Rock, BC |
+ Email                                                        GitHub                            LinkedIn                                                         Phone Number         Location
+---------------------------                                ----------                          ----------                                                      ----------------  ------------------
+ [skyler@thealdersons.org](mailto:skyler@thealdersons.org)  [Finkch](https://github.com/Finkch) [Skyler](https://www.linkedin.com/in/skyler-alderson-b91a2a30b/) 604-807-1061      White Rock, BC
 
 
 
