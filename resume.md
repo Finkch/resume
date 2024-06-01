@@ -23,10 +23,10 @@ Enthusiastic and detail-oriented recent graduate with a strong foundation in com
 
 ## Education
 
-**University of British Columbia** | GPA 3.90
+University of British Columbia | GPA 3.90
 
-* Bachelor of Science in Physics and Computer Science
-* Dean's List honoree on multiple occasions and former executive of UBC-O's Astronomy Club
+* Bachelor of Science in Physics and Computer Science.
+* Dean's List honoree on multiple occasions and former executive of UBC-O's Astronomy Club.
 
 
 ***
@@ -35,14 +35,16 @@ Enthusiastic and detail-oriented recent graduate with a strong foundation in com
 ## Experience
 
 ### Undergraduate Academic Assistant (Research Position)
-**University of British Columbia** | 4 months, 2024
+
+University of British Columbia | 4 months, 2024
 
 * Developed Python scripts for data analytics on student submissions for physics labratory.
 * Conducted thematic analysis of interview and survey data and led semi-structured interviews.
 
 
 ### Computer Science Capstone Project
-**University of British Columbia** | 4 months, 2023
+
+University of British Columbia | 4 months, 2023
 
 * Wrote JavaScript for functional SQL and relational algebra editors.
 * Devloped Python backend to automatically create and grade SQL and RelAlg questions.
@@ -51,17 +53,17 @@ Enthusiastic and detail-oriented recent graduate with a strong foundation in com
 
 
 ### Teacher's Assistant
-**University of British Columbia** | 18 months, 2022-2023
+
+University of British Columbia | 18 months, 2022-2023
 
 * Led two undergraduate experimental physics labratories.
 * Assisted in creating class slides andGraded homework assignments.
 
 
 ### Volunteer, iGEM
-**University of British Columbia** | 2022
+University of British Columbia | 2022
 
-* Designed frontend using CSS and HTML for the [iGEM wiki](https://2022.igem.wiki/ubc-okanagan/).
-* Contributed to the wiki's gold medal win in its category.
+* Designed frontend using CSS and HTML for the [iGEM wiki](https://2022.igem.wiki/ubc-okanagan/) and contributed to its gold medal placement.
 
 
 ***
@@ -69,8 +71,7 @@ Enthusiastic and detail-oriented recent graduate with a strong foundation in com
 
 ## Skills
 
-**Programming Languages:** Python, Java, JavaScript, C, Lua, minor familiarity with Rust and R.  
+**Programming:** Python, Java, JavaScript, C, Lua, zsh and bash, minor familiarity with Rust and R.  
 **Data Analysis:** Python, numpy, thematic analysis, semi-structure interviews.  
-**Tools:** Git and GitHub, Docker, MacOS, generative AI, bash and zsh, Google Sheets and Excel.  
+**Tools:** Git and GitHub, Docker, MacOS, generative AI, Jupyter, Google Sheets and Excel.  
 **Physics:** Experimental design and execution, handling lab data, problem-solving, and modeling.  
-**Other:** Presentation skills, report writing, strong communication.  
