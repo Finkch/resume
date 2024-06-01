@@ -2,6 +2,7 @@
 fontsize: 10pt
 geometry: margin=1in
 colorlinks: true
+pagestyle: empty
 ---
 
 
