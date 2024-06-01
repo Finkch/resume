@@ -7,11 +7,13 @@ colorlinks: true
 
 # Skyler Alderson
 
-* [skyler@thealdersons.org](mailto:skyler@thealdersons.org)
-* [GitHub/Finkch](https://github.com/Finkch)
-* [LinkedIn/Skyler Alderson](https://www.linkedin.com/in/skyler-alderson-b91a2a30b/)
-* 604-807-1061
-* White Rock, BC
+---
+[skyler@thealdersons.org](mailto:skyler@thealdersons.org)
+[GitHub/Finkch](https://github.com/Finkch)
+[LinkedIn/Skyler Alderson](https://www.linkedin.com/in/skyler-alderson-b91a2a30b/)
+604-807-1061
+White Rock, BC
+---
 
 
 ***
@@ -77,7 +79,8 @@ Enthusiastic and detail-oriented recent graduate with a strong foundation in com
 
 ## Skills
 
-**Programming Languages:** Python, Java, JavaScript, C, Lua, minor familiarity with Rust and R  
-**Tools:** Git and GitHub, Docker, MacOS, generative AI, bash and zsh  
-**Physics:** Experimental design and execution, handling lab data, problem-solving, and modeling  
-**Other:** Presentation skills, report writing, strong communication, focus, probability  
+**Programming Languages:** Python, Java, JavaScript, C, Lua, minor familiarity with Rust and R.  
+**Data Analysis:** Python, numpy, thematic analysis, semi-structure interviews.  
+**Tools:** Git and GitHub, Docker, MacOS, generative AI, bash and zsh.  
+**Physics:** Experimental design and execution, handling lab data, problem-solving, and modeling.  
+**Other:** Presentation skills, report writing, strong communication.  
