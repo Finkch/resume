@@ -1,5 +1,5 @@
 ---
-fontsize: 10pt
+fontsize: 8pt
 geometry: margin=1in
 ---
 
@@ -41,7 +41,7 @@ Enthusiastic and detail-oriented recent graduate with a strong foundation in com
 ### Undergraduate Academic Assistant (Research Position)
 **University of British Columbia** | 4 months
 
-* Investigated replacing paper lab manuals with Python Notebooks for early experimental physics laboratories.
+* Investigated replacing paper lab manuals with Python Notebooks for early physics laboratories.
 * Developed Python scripts for data analytics on student submissions.
 * Conducted thematic analysis of interview and survey data.
 * Led semi-structured interviews with students.
