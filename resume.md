@@ -21,14 +21,14 @@ Enthusiastic and detail-oriented recent graduate with a strong foundation in com
 ## Experience
 
 ### Undergraduate Academic Assistant (Research)
-*University of British Columbia* | 4 months, 2024  
+*University of British Columbia* | 4 months, January 2024 to April 2024 
 
 * Developed Python scripts for data analytics on student submissions.
 * Conducted thematic analysis of interview and survey data, led semi-structured interviews.  
 
 
 ### Computer Science Capstone Project
-*University of British Columbia* | 4 months, 2023  
+*University of British Columbia* | May 2023 to August 2023 
 
 * Wrote JavaScript for functional SQL and relational algebra editors.
 * Developed Python backend to automatically create and grade SQL/RelAlg questions.
@@ -37,14 +37,14 @@ Enthusiastic and detail-oriented recent graduate with a strong foundation in com
 
 
 ### Teacher's Assistant
-*University of British Columbia* | 18 months, 2022-2023  
+*University of British Columbia* | September 2022  to May 2023
 
 * Led two undergraduate experimental physics labs.
 * Assisted in creating class lecture slides and grading homework assignments.  
 
 
 ### Volunteer Web Design, iGEM
-*University of British Columbia* | 2022  
+*University of British Columbia* | October 2022
 
 * Designed frontend using CSS and HTML for the [iGEM wiki](https://2022.igem.wiki/ubc-okanagan/), contributing to its gold medal placement.  
 
