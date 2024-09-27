@@ -37,7 +37,7 @@ Enthusiastic and detail-oriented recent graduate with a strong foundation in com
 
 
 ### Teacher's Assistant
-*University of British Columbia* | September 2022  to May 2023
+*University of British Columbia* | September 2022  to December 2023
 
 * Led two undergraduate experimental physics labs.
 * Assisted in creating class lecture slides and grading homework assignments.  
