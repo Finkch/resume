@@ -14,14 +14,14 @@ Enthusiastic and detail-oriented recent graduate with a strong foundation in com
 
 **University of British Columbia** | GPA 3.90  
 
-- B.Sc. in Physics and Computer Science.
-- Dean's List honoree, former executive of UBC-O's Astronomy Club.
+* B.Sc. in Physics and Computer Science.
+* Dean's List honoree; former executive of the Astronomy Club.
 
 
 ## Experience
 
 ### Undergraduate Academic Assistant (Research)
-*University of British Columbia* | 4 months, January 2024 to April 2024 
+*University of British Columbia* | January 2024 to April 2024 
 
 * Developed Python scripts for data analytics on student submissions.
 * Conducted thematic analysis of interview and survey data, led semi-structured interviews.  
@@ -30,17 +30,18 @@ Enthusiastic and detail-oriented recent graduate with a strong foundation in com
 ### Computer Science Capstone Project
 *University of British Columbia* | May 2023 to August 2023 
 
-* Wrote JavaScript for functional SQL and relational algebra editors.
-* Developed Python backend to automatically create and grade SQL/RelAlg questions.
+* Developed JavaScript-based SQL and relational algebra editors, achieving the highest grade in the class.
+* Built a Python backend for automated creation and grading of SQL/RelAlg questions.
 * Implemented CI/CD and full regression testing through DroneCI.
-* Focused on full-stack development, achieving the highest grade in the class.  
+* Integrated the project into the PrairieLearn platform.
 
 
-### Teacher's Assistant
-*University of British Columbia* | September 2022  to December 2023
+### Mock Degree Navigator App
+*University of British Columbia* | September 2022  to December 2022
 
-* Led two undergraduate experimental physics labs.
-* Assisted in creating class lecture slides and grading homework assignments.  
+* Followed team-based software development practices to create a Java Android app in a third year Human-Computer Interaction course.
+* Designed graphical user interfaces and flow diagrams for the app.
+* Implemented backend components and data verification.
 
 
 ### Volunteer Web Design, iGEM
@@ -51,7 +52,7 @@ Enthusiastic and detail-oriented recent graduate with a strong foundation in com
 
 ## Skills
 
-**Programming:** Python, Java, JavaScript, C, Lua, zsh, bash, minor familiarity with Rust and R.  
+**Programming:** Python, Rust, Java, JavaScript, C, Lua, zsh, bash, R.  
 **Data Analysis:** NumPy, SciPy, Matplotlib, thematic analysis, semi-structured interviews.  
 **Tools:** Git, GitHub, Docker, MacOS, generative AI, Jupyter, Google Sheets, Excel.  
 **Physics:** Experimental design and execution, handling lab data, problem-solving, modeling.
