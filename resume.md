@@ -36,12 +36,10 @@ Enthusiastic and detail-oriented recent graduate with a strong foundation in com
 * Integrated the project into the PrairieLearn platform.
 
 
-### Mock Degree Navigator App
-*University of British Columbia* | September 2022  to December 2022
-
-* Followed team-based software development practices to create a Java Android app in a third year Human-Computer Interaction course.
-* Designed graphical user interfaces and flow diagrams for the app.
-* Implemented backend components and data verification.
+### Teaching Assistant
+*University of British Columbia* | September 2022 to December 2023
+* Led two undergraduate experimental physics labs.
+* Assisted in creating class lecture slides and grading homework assignments.
 
 
 ### Volunteer Web Design, iGEM
@@ -52,7 +50,7 @@ Enthusiastic and detail-oriented recent graduate with a strong foundation in com
 
 ## Skills
 
-**Languages:** English (native), French (DELF B2)
+**Languages:** English (native), French (DELF B2).  
 **Programming:** Python, Rust, Lua, Java, JavaScript, C, zsh, bash, R.  
 **Data Analysis:** NumPy, SciPy, Matplotlib, thematic analysis, semi-structured interviews.  
 **Tools:** Git, GitHub, Docker, MacOS, generative AI, Jupyter, Google Sheets, Excel.  
