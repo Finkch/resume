@@ -92,7 +92,7 @@ Enthusiastic and detail-oriented recent graduate with a B.Sc. in Physics and Com
 ## Awards & Honors
 
 - Dean’s List, multiple semesters – University of British Columbia  
-- iGEM 2022 Gold Medal contributor
+- iGEM 2022 Gold Medal contributor  
 
 
 ## Leadership & Extracurriculars
