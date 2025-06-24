@@ -4,9 +4,7 @@ name: Markdown to PDF
 # Runs the job whenever there is a push to `main`
 # Since this repo is so small, there is no need for branches thus `on pull`
 on:
-  push:
-    branches:
-      - main
+  push
 
 # Dispatches a job
 jobs:
