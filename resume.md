@@ -30,6 +30,8 @@ Enthusiastic and detail-oriented recent graduate with a B.Sc. in Physics and Com
 - Led semi-structured interviews; performed thematic analysis of transcripts and surveys.  
 - Contributed to a research project aimed at improving physics labratory pedagogy.  
 
+<br>
+
 **Advanced Undergraduate Laboratory Work**  
 *University of British Columbia – Department of Physics*  
 *2022 – 2023*
@@ -50,6 +52,7 @@ Enthusiastic and detail-oriented recent graduate with a B.Sc. in Physics and Com
 - Integrated CI/CD thorugh DroneCI and automated regression testing.  
 - Group achieved the highest project grade in class.  
 
+<br>
 
 **Personal Software Projects**
 
@@ -87,16 +90,3 @@ Enthusiastic and detail-oriented recent graduate with a B.Sc. in Physics and Com
 **Web & DevOps:** HTML/CSS, Git, GitHub, Docker, DroneCI  
 **Research Methods:** Thematic analysis, semi-structured interviews, experimental design, simulations and modelling, data fitting  
 **Languages:** English (native), French (DELF B2)
-
-
-## Awards & Honors
-
-- Dean’s List, multiple semesters – University of British Columbia  
-- iGEM 2022 Gold Medal contributor  
-
-
-## Leadership & Extracurriculars
-
-**Executive Member – UBC Astronomy Club**  
-- Organized and lead campus stargazing events.  
-- Maintained and collimated telescopes for club and personal use.
