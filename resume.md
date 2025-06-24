@@ -2,57 +2,110 @@
 
 | Email                                                     | GitHub                              | LinkedIn                                                         | Phone Number       | Location
 |:---------------------------:                              | :----------:                        | :------------:                                                   | :----------------: | :------------------:
-| [skyler@thealdersons.org](mailto:skyler@thealdersons.org) | [Finkch](https://github.com/Finkch) | [Skyler](https://www.linkedin.com/in/skyler-alderson-b91a2a30b/) | 604-807-1061       | White Rock, BC
+| [skyler@thealdersons.org](mailto:skyler@thealdersons.org) | [Finkch](https://github.com/Finkch) | [Skyler](https://www.linkedin.com/in/skyler-alderson-b91a2a30b/) | 604-807-1061       | White Rock, Canada
 
+---
 
 ## Professional Summary
 
-Enthusiastic and detail-oriented recent graduate with a strong foundation in computer science and physics. Finds the best path to tackle a problem before starting. Adept at developing small-scale physics simulations, data analytics tools, and tools to solve math problems. Proven ability to solve complex problems, lead academic labs, and conduct research-based data analysis.
+Enthusiastic and detail-oriented recent graduate with a B.Sc. in Physics and Computer Science from the University of British Columbia (GPA 3.90). Adept at developing data analytics tools, physics simulations, and collaborative software systems. Strong background in software development, experimental physics, qualitative research, and technical teaching. Passionate about astronomy and aerospace, software development, scientific inquiry, and teaching.
 
+---
 
 ## Education
 
-**University of British Columbia** | GPA 3.90  
+**University of British Columbia**, B.Sc. in Physics, Computer Science  
+*Graduated: 2024 | GPA: 3.90*
 
-* B.Sc. in Physics and Computer Science.
-* Dean's List honoree; former executive of the Astronomy Club.
+- Dean’s List honoree  
+- Relevant Coursework: Software Development, Parallel Computing, Data Structures, Database Systems, Machine Architecture, Algorithms, Experimental Physics, Statistical Mechanics, Astronomy, Stellar Astrophysics
 
+---
 
-## Experience
+## Research Experience
 
-### Undergraduate Academic Assistant (Research)
-*University of British Columbia* | January 2024 to April 2024 
+**Undergraduate Academic Assistant**  
+*University of British Columbia – Department of Physics*  
+*Jan 2024 – Apr 2024*
 
-* Developed Python scripts for data analytics on student submissions.
-* Conducted thematic analysis of interview and survey data, led semi-structured interviews.  
+- Developed Python scripts for analyzing student-submitted code patterns.  
+- Led semi-structured interviews; performed thematic analysis of transcripts and surveys.  
+- Contributed to a research project aimed at improving physics labratory pedagogy.
 
+**Advanced Undergraduate Laboratory Work**  
+*University of British Columbia – Department of Physics*  
+*2022 – 2023*
 
-### Computer Science Capstone Project
-*University of British Columbia* | May 2023 to August 2023 
+- Created a pair of mutually coupled loop-gap resonators to investigate wireless power transfer efficiency.  
+- Used a scintillator and statistical analysis to detect and calculate the lifetime of muons.  
+- Performed work on delicate and sensitive equipment such as a torsion balance to perform the Cavendish experiment.
+- Investigated Faraday rotation by performing manual, thorough scanning.
 
-* Developed JavaScript-based SQL and relational algebra editors, achieving the highest grade in the class.
-* Built a Python backend for automated creation and grading of SQL/RelAlg questions.
-* Implemented CI/CD and full regression testing through DroneCI.
-* Integrated the project into the PrairieLearn platform.
+---
 
+## Technical Projects
 
-### Teaching Assistant
-*University of British Columbia* | September 2022 to December 2023  
+**Capstone Project: SQL/RelAlg Editors & Auto-Grader**  
+*University of British Columbia*  
+*May 2023 – Aug 2023*
 
-* Led two undergraduate experimental physics labs.
-* Assisted in creating class lecture slides and grading homework assignments.
+- Built interactive SQL and Relational Algebra editors in JavaScript.  
+- Developed a Python backend for procedurally generating randomised databases and associated questions.
+- Created Python scripts to accurately grade student submission for both preset and randomised questions.
+- Integrated CI/CD thorugh DroneCI and automated regression testing.  
+- Group achieved the highest project grade in class.
 
+**Personal Software Projects**
 
-### Volunteer Web Design, iGEM
-*University of British Columbia* | October 2022
+- **N-body Simulators:** Built Newtonian and relativistic orbital simulators including a project modeling hypothetical interstellar ion-ramjet spacecraft.  
+- **Image Processing Tools:** Created novel algorithm to intelligently select image palettes during downscaling; trained custom neural networks to recognise unique character sets.
+- **Simulation and Analysis:** Worked on several miscellaneous simulation-based projects: lower bound on mine density in infinite grid Minesweeper; optimal strategies in classic card games such as Cribbage and four-card Gold.
+- **High-Performance Computing:** Computationally challenging problems such variants of the unsolved Magic Square mathematics problem and finding sets of pangrams with restrictions.
+- **Other:** Several Minesweeper implementations including a quantum variant, procedural skeletal animation framework for Picotron, and API to transform 16-bit PICO-8 computer system into a 64-bit system.
 
-* Designed frontend using CSS and HTML for the [iGEM wiki](https://2022.igem.wiki/ubc-okanagan/), contributing to its gold medal placement.  
+---
 
+## Teaching Experience
+
+**Teaching Assistant – Experimental Physics**  
+*University of British Columbia*  
+*Sep 2022 – Dec 2023*
+
+- Led two undergraduate labratory sections in experimental physics.  
+- Graded assignments, created lecture slides, and guided students in lab technique and analysis for multiple physics and computer science courses.  
+
+---
+
+## Web & Design Work
+
+**Frontend Volunteer – iGEM UBC Okanagan Team**  
+*Oct 2022*
+
+- Designed HTML/CSS frontend for the iGEM wiki site.  
+- Helped team win a Gold Medal at the iGEM 2022 competition.  
+- Site: [https://2022.igem.wiki/ubc-okanagan/](https://2022.igem.wiki/ubc-okanagan/)
+
+---
 
 ## Skills
 
-**Languages:** English (native), French (DELF B2).  
-**Programming:** Python, Rust, Lua, Java, JavaScript, C, zsh, bash, R.  
-**Data Analysis:** NumPy, SciPy, Matplotlib, thematic analysis, semi-structured interviews.  
-**Tools:** Git, GitHub, Docker, MacOS, generative AI, Jupyter, Google Sheets, Excel.  
-**Physics:** Experimental design and execution, handling lab data, problem-solving, modeling.
+**Programming Languages:** Python, Rust, Lua, Java, JavaScript, C, bash, zsh  
+**Data Analysis & Tools:** NumPy, SciPy, Matplotlib, Jupyter, Excel, Google Sheets  
+**Web & DevOps:** HTML/CSS, Git, GitHub, Docker, DroneCI  
+**Research Methods:** Thematic analysis, semi-structured interviews, experimental design, simulations and modelling, data fitting  
+**Languages:** English (native), French (DELF B2)
+
+---
+
+## Awards & Honors
+
+- Dean’s List, multiple semesters – University of British Columbia  
+- iGEM 2022 Gold Medal contributor
+
+---
+
+## Leadership & Extracurriculars
+
+**Executive Member – UBC Astronomy Club**  
+- Organized and lead campus stargazing events.  
+- Maintained and collimated telescopes for club and personal use.
