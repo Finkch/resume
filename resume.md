@@ -13,7 +13,7 @@ Enthusiastic and detail-oriented recent graduate with a B.Sc. in Physics and Com
 ## Education
 
 **University of British Columbia**
-*Graduated: 2024 | GPA: 3.90*
+*September 2019 – May 2024* | GPA 3.90  
 
 * B.Sc. in Physics, Computer Science
 * Dean’s List honoree
@@ -24,8 +24,7 @@ Enthusiastic and detail-oriented recent graduate with a B.Sc. in Physics and Com
 ## Research Experience
 
 **Undergraduate Academic Assistant**  
-*University of British Columbia – Department of Physics*  
-*Jan 2024 – Apr 2024*
+*University of British Columbia* | Jan 2024 – Apr 2024  
 
 * Developed Python scripts for analyzing student-submitted code patterns.
 * Led semi-structured interviews; performed thematic analysis of transcripts and surveys.
@@ -33,8 +32,7 @@ Enthusiastic and detail-oriented recent graduate with a B.Sc. in Physics and Com
 
 
 **Advanced Undergraduate Laboratory Work**  
-*University of British Columbia – Department of Physics*  
-*2022 – 2023*
+*University of British Columbia* | 2022 – 2023  
 
 * Created a pair of mutually coupled loop-gap resonators to investigate wireless power transfer efficiency.
 * Used a scintillator and statistical analysis to detect and calculate the lifetime of muons.
@@ -44,8 +42,7 @@ Enthusiastic and detail-oriented recent graduate with a B.Sc. in Physics and Com
 ## Technical Projects
 
 **Capstone Project: SQL/RelAlg Editors & Auto-Grader**  
-*University of British Columbia*  
-*May 2023 – Aug 2023*
+*University of British Columbia* | May 2023 – Aug 2023  
 
 * Built interactive SQL and Relational Algebra editors in JavaScript.
 * Developed a Python backend for procedurally generating randomised databases and associated questions.
@@ -66,8 +63,7 @@ Enthusiastic and detail-oriented recent graduate with a B.Sc. in Physics and Com
 ## Teaching Experience
 
 **Teaching Assistant – Experimental Physics**  
-*University of British Columbia*  
-*Sep 2022 – Dec 2023*
+*University of British Columbia* | Sep 2022 – Dec 2023  
 
 * Led two undergraduate labratory sections in experimental physics.
 * Graded assignments, created lecture slides, and guided students in lab technique and analysis for multiple physics and computer science courses.  
@@ -76,7 +72,7 @@ Enthusiastic and detail-oriented recent graduate with a B.Sc. in Physics and Com
 ## Web & Design Work
 
 **Frontend Volunteer – iGEM UBC Okanagan Team**  
-*Oct 2022*
+*iGEM Competition* | Oct 2022
 
 * Designed HTML/CSS frontend for the [iGEM wiki](https://2022.igem.wiki/ubc-okanagan/) site.
 * Helped team win a Gold Medal at the iGEM 2022 competition.  
