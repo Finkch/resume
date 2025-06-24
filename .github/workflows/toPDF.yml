@@ -32,7 +32,7 @@ jobs:
         git config --global user.name "github-actions[bot]"
         git config --global user.email "github-actions[bot]@users.noreply.github.com"
         git fetch
-        git checkout main
+        git checkout cv
         git pull origin
         git add resume.pdf
         git commit -m "Auto-generate PDF from resume.md"
