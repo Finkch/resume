@@ -15,10 +15,10 @@ Enthusiastic and detail-oriented recent graduate with a B.Sc. in Physics and Com
 **University of British Columbia**
 *September 2019 – May 2024* | GPA 3.90  
 
-* B.Sc. in Physics, Computer Science
-* Dean’s List honoree
-* Select Comp. Sci. Coursework: Software Development, Parallel Computing, Data Structures, Database Systems, Web Design, 
-* Select Physics Coursework: Experimental Physics, Statistical Mechanics, Astronomy, Stellar Astrophysics, Electricity and Magnetism  
+* B.Sc. in Physics and B.Sc. in Computer Science.
+* Multiple Dean’s List honoree.
+* Software Development, Parallel Computing, Data Structures, Database Systems, Web Design.
+* Experimental Physics, Statistical Mechanics, Astronomy, Stellar Astrophysics, Electricity and Magnetism.  
 
 
 ## Research Experience
@@ -51,7 +51,7 @@ Enthusiastic and detail-oriented recent graduate with a B.Sc. in Physics and Com
 * Group achieved the highest project grade in class.  
 
 
-**Personal Software Projects**
+**Select Personal Software Projects**
 
 * Built Newtonian and relativistic orbital simulators including a project modeling hypothetical interstellar ion-ramjet spacecraft.
 * Created novel algorithm to intelligently select image palettes during downscaling; trained custom neural networks to recognise unique character sets.
@@ -62,11 +62,11 @@ Enthusiastic and detail-oriented recent graduate with a B.Sc. in Physics and Com
 
 ## Teaching Experience
 
-**Teaching Assistant – Experimental Physics**  
+**Teaching Assistant – Experimental and Undergraduate Physics**  
 *University of British Columbia* | Sep 2022 – Dec 2023  
 
 * Led two undergraduate labratory sections in experimental physics.
-* Graded assignments, created lecture slides, and guided students in lab technique and analysis for multiple physics and computer science courses.  
+* Graded assignments, created lecture slides, and guided students in lab technique and analysis for multiple physics courses.  
 
 
 ## Web & Design Work
@@ -74,8 +74,19 @@ Enthusiastic and detail-oriented recent graduate with a B.Sc. in Physics and Com
 **Frontend Volunteer – iGEM UBC Okanagan Team**  
 *iGEM Competition* | Oct 2022
 
-* Designed HTML/CSS frontend for the [iGEM wiki](https://2022.igem.wiki/ubc-okanagan/) site.
-* Helped team win a Gold Medal at the iGEM 2022 competition.  
+* Designed HTML/CSS frontend for the [iGEM wiki](https://2022.igem.wiki/ubc-okanagan/).
+* Helped team win a Gold Medal at the iGEM 2022 competition.
+
+
+## Leadership & Extracurriculars
+
+**Executive Member – UBC Astronomy Club**  
+* Organised and lead campus stargazing events.
+* Performed recruitment and onboarding for new members.
+* Maintained and collimated telescopes for club and personal use.  
+
+**Group Leader – UBC Board Games Club**
+* Organised and led weekly group activities.  
 
 
 ## Skills
