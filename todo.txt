@@ -1,0 +1,3 @@
+Rename "resume.md" to "README.md"
+The file it spits out should be renamed to "Resume, Skyler A. ([DATE]).pdf" and remove any previous ones
+Make it look pretty?
