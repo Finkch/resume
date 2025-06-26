@@ -89,6 +89,7 @@ Enthusiastic and detail-oriented recent graduate with a B.Sc. in Physics and Com
 ## Leadership & Extracurriculars
 
 **Executive Member – UBC Astronomy Club**  
+*University of British Columbia* | January 2022 – May 2024  
 
 * Organised and lead campus stargazing events.  
 * Performed recruitment and onboarding for new members.  
@@ -97,6 +98,7 @@ Enthusiastic and detail-oriented recent graduate with a B.Sc. in Physics and Com
 &nbsp;  
 
 **Group Leader – UBC Board Games Club**  
+*University of British Columbia* | Sep 2019 – Dec 2019  
 
 * Organised and led weekly group activities.  
 
