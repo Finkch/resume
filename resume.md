@@ -18,7 +18,7 @@ Enthusiastic and detail-oriented recent graduate with a B.Sc. in Physics and Com
 * B.Sc. in Physics and B.Sc. in Computer Science.
 * Multiple Dean’s List honoree.
 * Software Development, Parallel Computing, Data Structures, Database Systems, Web Design.
-* Experimental Physics, Statistical Mechanics, Astronomy, Stellar Astrophysics, Electricity and Magnetism.  
+* Experimental Physics, Statistical Mechanics, Astronomy, Stellar Astrophysics, Solid State.  
 
 
 ## Research Experience
@@ -30,6 +30,8 @@ Enthusiastic and detail-oriented recent graduate with a B.Sc. in Physics and Com
 * Led semi-structured interviews; performed thematic analysis of transcripts and surveys.
 * Contributed to a research project aimed at improving physics labratory pedagogy.  
 
+&nbsp;  
+&nbsp;  
 
 **Advanced Undergraduate Laboratory Work**  
 *University of British Columbia* | 2022 – 2023  
@@ -50,6 +52,8 @@ Enthusiastic and detail-oriented recent graduate with a B.Sc. in Physics and Com
 * Integrated CI/CD thorugh DroneCI and automated regression testing.
 * Group achieved the highest project grade in class.  
 
+`(space)`(space)(space)  
+`(space)`(space)(space)  
 
 **Select Personal Software Projects**
 
@@ -84,6 +88,9 @@ Enthusiastic and detail-oriented recent graduate with a B.Sc. in Physics and Com
 * Organised and lead campus stargazing events.
 * Performed recruitment and onboarding for new members.
 * Maintained and collimated telescopes for club and personal use.  
+
+`(space)`(space)(space)  
+`(space)`(space)(space)
 
 **Group Leader – UBC Board Games Club**
 * Organised and led weekly group activities.  
