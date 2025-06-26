@@ -53,8 +53,8 @@ Enthusiastic and detail-oriented recent graduate with a B.Sc. in Physics and Com
 * Built interactive SQL and Relational Algebra editors in JavaScript.
 * Developed a Python backend for procedurally generating randomised databases and associated questions.
 * Created Python scripts to accurately grade student submission for both preset and randomised questions.
-* Integrated CI/CD thorugh DroneCI and automated regression testing.
-* Group achieved the highest project grade in class.  
+* Integrated CI/CD through DroneCI and automated regression testing with rigorous code review.
+* Thanks to employing best development practices, our group achieved the highest grade in class.  
 
 
 **Select Personal Software Projects**
