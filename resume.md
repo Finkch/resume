@@ -72,8 +72,8 @@ Enthusiastic and detail-oriented recent graduate with a B.Sc. in Physics and Com
 **Teaching Assistant – Experimental and Undergraduate Physics**  
 *University of British Columbia* | Sep 2022 – Dec 2023  
 
-* Led two undergraduate labratory sections in experimental physics.
-* Graded assignments, created lecture slides, and guided students in lab technique and analysis for multiple physics courses.  
+* Led two undergraduate labratory sections in experimental physics and taught basic Python skills.
+* Graded assignments, created lecture slides, and guided students in lab technique and analysis.  
 
 &nbsp;  
 
