@@ -7,7 +7,7 @@
 
 ## Professional Summary
 
-Enthusiastic and detail-oriented recent graduate with a B.Sc. in Physics and Computer Science from the University of British Columbia (GPA 3.90). Adept at developing data analytics tools, physics simulations, and collaborative software systems. Strong background in software development, experimental physics, and technical teaching. Passionate about astronomy and aerospace, software development, scientific inquiry, and teaching.
+Enthusiastic and detail-oriented recent graduate with a B.Sc. in Physics and Computer Science from the University of British Columbia (GPA 3.90). Adept at developing data analytics tools, physics simulations, and collaborative software systems. Strong background in software development, experimental physics, and teaching. Passionate about astronomy and aerospace, software development, scientific inquiry, and teaching.
 
 &nbsp;  
 
