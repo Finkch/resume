@@ -20,6 +20,7 @@ Enthusiastic and detail-oriented recent graduate with a B.Sc. in Physics and Com
 * Software Development, Parallel Computing, Data Structures, Database Systems, Web Design.
 * Experimental Physics, Statistical Mechanics, Astronomy, Stellar Astrophysics, Solid State.  
 
+&nbsp;  
 
 ## Research Experience
 
@@ -31,7 +32,6 @@ Enthusiastic and detail-oriented recent graduate with a B.Sc. in Physics and Com
 * Contributed to a research project aimed at improving physics labratory pedagogy.  
 
 &nbsp;  
-&nbsp;  
 
 **Advanced Undergraduate Laboratory Work**  
 *University of British Columbia* | 2022 – 2023  
@@ -40,6 +40,8 @@ Enthusiastic and detail-oriented recent graduate with a B.Sc. in Physics and Com
 * Used a scintillator and statistical analysis to detect and calculate the lifetime of muons.
 * Performed work on hyper-sensitive equipment such as a torsion balance to obtian Gravitational constant.
 * Investigated Faraday rotation of light through various media within a magnetic field.  
+
+&nbsp;  
 
 ## Technical Projects
 
@@ -52,8 +54,7 @@ Enthusiastic and detail-oriented recent graduate with a B.Sc. in Physics and Com
 * Integrated CI/CD thorugh DroneCI and automated regression testing.
 * Group achieved the highest project grade in class.  
 
-`(space)`(space)(space)  
-`(space)`(space)(space)  
+&nbsp;  
 
 **Select Personal Software Projects**
 
@@ -63,6 +64,7 @@ Enthusiastic and detail-oriented recent graduate with a B.Sc. in Physics and Com
 * Computationally challenging problems such variants of the unsolved Magic Square mathematics problem and finding sets of pangrams with restrictions.
 * Several Minesweeper implementations including a quantum variant, procedural skeletal animation framework for Picotron, API to transform 16-bit PICO-8 computer system into a 64-bit system.  
 
+&nbsp;  
 
 ## Teaching Experience
 
@@ -72,6 +74,7 @@ Enthusiastic and detail-oriented recent graduate with a B.Sc. in Physics and Com
 * Led two undergraduate labratory sections in experimental physics.
 * Graded assignments, created lecture slides, and guided students in lab technique and analysis for multiple physics courses.  
 
+&nbsp;  
 
 ## Web & Design Work
 
@@ -81,6 +84,7 @@ Enthusiastic and detail-oriented recent graduate with a B.Sc. in Physics and Com
 * Designed HTML/CSS frontend for the [iGEM wiki](https://2022.igem.wiki/ubc-okanagan/).
 * Helped team win a Gold Medal at the iGEM 2022 competition.
 
+&nbsp;  
 
 ## Leadership & Extracurriculars
 
@@ -89,12 +93,12 @@ Enthusiastic and detail-oriented recent graduate with a B.Sc. in Physics and Com
 * Performed recruitment and onboarding for new members.
 * Maintained and collimated telescopes for club and personal use.  
 
-`(space)`(space)(space)  
-`(space)`(space)(space)
+&nbsp;  
 
 **Group Leader – UBC Board Games Club**
 * Organised and led weekly group activities.  
 
+&nbsp;  
 
 ## Skills
 
