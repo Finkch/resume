@@ -9,6 +9,7 @@
 
 Enthusiastic and detail-oriented recent graduate with a B.Sc. in Physics and Computer Science from the University of British Columbia (GPA 3.90). Adept at developing data analytics tools, physics simulations, and collaborative software systems. Strong background in software development, experimental physics, qualitative research, and technical teaching. Passionate about astronomy and aerospace, software development, scientific inquiry, and teaching.
 
+&nbsp;  
 
 ## Education
 
@@ -54,7 +55,6 @@ Enthusiastic and detail-oriented recent graduate with a B.Sc. in Physics and Com
 * Integrated CI/CD thorugh DroneCI and automated regression testing.
 * Group achieved the highest project grade in class.  
 
-&nbsp;  
 
 **Select Personal Software Projects**
 
@@ -89,13 +89,13 @@ Enthusiastic and detail-oriented recent graduate with a B.Sc. in Physics and Com
 ## Leadership & Extracurriculars
 
 **Executive Member – UBC Astronomy Club**  
-* Organised and lead campus stargazing events.
-* Performed recruitment and onboarding for new members.
+* Organised and lead campus stargazing events.  
+* Performed recruitment and onboarding for new members.  
 * Maintained and collimated telescopes for club and personal use.  
 
 &nbsp;  
 
-**Group Leader – UBC Board Games Club**
+**Group Leader – UBC Board Games Club**  
 * Organised and led weekly group activities.  
 
 &nbsp;  
