@@ -92,8 +92,8 @@ Enthusiastic and detail-oriented recent graduate with a B.Sc. in Physics and Com
 **Executive Member – UBC Astronomy Club**  
 *University of British Columbia* | January 2022 – May 2024  
 
-* Organised and lead campus stargazing events.  
-* Performed recruitment and onboarding for new members.  
+* Organised and lead campus stargazing events.
+* Performed recruitment and onboarding for new members.
 * Maintained and collimated telescopes for club and personal use.  
 
 &nbsp;  
