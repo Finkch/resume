@@ -89,6 +89,7 @@ Enthusiastic and detail-oriented recent graduate with a B.Sc. in Physics and Com
 ## Leadership & Extracurriculars
 
 **Executive Member – UBC Astronomy Club**  
+
 * Organised and lead campus stargazing events.  
 * Performed recruitment and onboarding for new members.  
 * Maintained and collimated telescopes for club and personal use.  
@@ -96,6 +97,7 @@ Enthusiastic and detail-oriented recent graduate with a B.Sc. in Physics and Com
 &nbsp;  
 
 **Group Leader – UBC Board Games Club**  
+
 * Organised and led weekly group activities.  
 
 &nbsp;  
