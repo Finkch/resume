@@ -41,7 +41,7 @@ Enthusiastic and detail-oriented recent graduate with a B.Sc. in Physics and Com
 * Used a scintillator and statistical analysis to detect and calculate the lifetime of muons.
 * Performed work on hyper-sensitive equipment such as a torsion balance to obtian Gravitational constant.
 * Investigated Faraday rotation of light through various media within a magnetic field.
-* Extensively used Python libraries like SciPy and NumPy to perform data analysis and Matplotlib for visualisation.  
+* Used Python libraries like SciPy, NumPy, and Matplotlib for analysis and visualisation.  
 
 &nbsp;  
 
