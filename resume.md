@@ -62,7 +62,7 @@ Enthusiastic and detail-oriented recent graduate with a B.Sc. in Physics and Com
 * Built Newtonian and relativistic orbital simulators including a project modeling hypothetical interstellar ion-ramjet spacecraft.
 * Created novel algorithm to intelligently select image palettes during downscaling; trained custom neural networks to recognise unique character sets.
 * Worked on several miscellaneous simulation-based projects: lower bound on mine density in infinite grid Minesweeper; optimal strategies in classic card games such as Cribbage and four-card Golf.
-* Computationally challenging problems such variants of the unsolved Magic Square mathematics problem and finding sets of pangrams with restrictions.
+* Computationally challenging problems such as variants of the unsolved Magic Square mathematics problem and finding sets of pangrams with restrictions.
 * Several Minesweeper implementations including a quantum variant, procedural skeletal animation framework for Picotron, API to transform 16-bit PICO-8 computer system into a 64-bit system.  
 
 &nbsp;  
