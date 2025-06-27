@@ -59,7 +59,7 @@ Enthusiastic and detail-oriented recent graduate with a B.Sc. in Physics and Com
 
 **Select Personal Software Projects**
 
-* Built Newtonian and relativistic orbital simulators including a project modeling hypothetical interstellar ion-ramjet spacecraft.
+* Built Newtonian and relativistic orbital simulators including a project modelling hypothetical interstellar ion-ramjet spacecraft.
 * Created novel algorithm to intelligently select image palettes during downscaling; trained custom neural networks to recognise unique character sets.
 * Worked on several miscellaneous simulation-based projects: lower bound on mine density in infinite grid Minesweeper; optimal strategies in classic card games such as Cribbage and four-card Golf.
 * Computationally challenging problems such as variants of the unsolved Magic Square mathematics and finding sets of pangrams with restrictions.
