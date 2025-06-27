@@ -54,7 +54,7 @@ Enthusiastic and detail-oriented recent graduate with a B.Sc. in Physics and Com
 * Developed a Python backend for procedurally generating randomised databases and associated questions.
 * Created Python code to accurately grade student submissions for both preset and randomised questions.
 * Integrated CI/CD through DroneCI and automated regression testing with rigorous code review.
-* Thanks to employing best development practices, our group achieved the highest grade in class.  
+* By employing best development practices, our group achieved the highest grade in class.  
 
 
 **Select Personal Software Projects**
