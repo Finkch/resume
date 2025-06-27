@@ -30,7 +30,7 @@ Enthusiastic and detail-oriented recent graduate with a B.Sc. in Physics and Com
 
 * Developed Python scripts for analyzing student-submitted code patterns.
 * Led semi-structured interviews; performed thematic analysis of transcripts and surveys.
-* Contributed to a research project aimed at improving physics labratory pedagogy.  
+* Contributed to a research project aimed at improving physics laboratory pedagogy.  
 
 &nbsp;  
 
@@ -72,7 +72,7 @@ Enthusiastic and detail-oriented recent graduate with a B.Sc. in Physics and Com
 **Teaching Assistant – Experimental and Undergraduate Physics**  
 *University of British Columbia* | Sep 2022 – Dec 2023  
 
-* Led two undergraduate labratory sections in experimental physics and taught basic Python skills.
+* Led two undergraduate laboratory sections in experimental physics and taught basic Python skills.
 * Graded assignments, created lecture slides, and guided students in lab technique and analysis.  
 
 &nbsp;  
