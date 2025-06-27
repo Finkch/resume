@@ -109,6 +109,6 @@ Enthusiastic and detail-oriented recent graduate with a B.Sc. in Physics and Com
 
 * **Programming Languages:** Python, Rust, Lua, Java, JavaScript, C, bash, zsh.
 * **Data Analysis & Tools:** NumPy, SciPy, Matplotlib, Jupyter, Excel, Google Sheets.
-* **Web & DevOps:** HTML/CSS, Git, GitHub, Docker, DroneCI.
+* **Web & DevOps:** HTML/CSS, Git, GitHub, GitHub Actions, Docker, DroneCI.
 * **Research Methods:** Experimental lab work, semi-structured interviews, simulations, data fitting.
 * **Languages:** English (native), French (DELF B2).
