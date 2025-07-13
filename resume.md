@@ -54,5 +54,5 @@ Enthusiastic and detail-oriented recent graduate with a strong foundation in com
 **Programming:** Python, Rust, Lua, Java, JavaScript, C, zsh, bash, R.  
 **Data Analysis:** NumPy, SciPy, Matplotlib, thematic analysis, semi-structured interviews.  
 **Tools:** Git, GitHub, Docker, MacOS, generative AI, Jupyter, Google Sheets, Excel.  
-**Physics:** Experimental design and execution, handling lab data, problem-solving, modeling.
+**Physics:** Experimental design and execution, handling lab data, problem-solving, modeling.  
 **Languages:** English (native), French (DELF B2).
